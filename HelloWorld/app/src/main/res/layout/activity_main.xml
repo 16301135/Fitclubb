@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--   顶级元素必须指定命名空间-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:htm="http://schemas.android.com/apk/res-auto"
+    android:paddingBottom="0dp"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context="com.example.lenovo.helloworld.MainActivity">
+
+    <com.hjm.bottomtabbar.BottomTabBar
+        android:id="@+id/bottom_tab_bar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        htm:tab_bar_background="@color/ivory"
+        htm:tab_divider_background="@color/colorPrimary"
+
+       />
+
+
+
+
+
+
+
+
+
+    <!--
+    wrap_content:包裹内容
+    match_parent:填充父控件
+    -->
+</RelativeLayout>

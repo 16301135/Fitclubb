@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white" >
+
+    <TableRow>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="欢迎来到北交大俱乐部"
+            android:textSize="3pt"
+            android:layout_marginLeft="50dp"
+
+            />
+
+    </TableRow>
+
+   <TableRow>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="用户名"
+        android:textSize="10pt"
+        android:layout_marginLeft="50dp"
+
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请填写注册登录账号"
+        android:selectAllOnFocus="true"
+        />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="密码"
+            android:textSize="10pt"
+            android:layout_marginLeft="50dp"
+            />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint=""
+            android:selectAllOnFocus="true"
+            />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="电话号码"
+            android:textSize="10pt"
+            android:layout_marginLeft="50dp"
+            />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="请填写您的电话号码"
+            android:selectAllOnFocus="true"
+            />
+    </TableRow>
+
+</TableLayout>
