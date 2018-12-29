@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android\\fitness_Android\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\4cb3a9d87a95185830c2a4e485ecbe3dff7f976b\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Android\\fitness_Android\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\4cb3a9d87a95185830c2a4e485ecbe3dff7f976b\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Android\\fitness_Android\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\4cb3a9d87a95185830c2a4e485ecbe3dff7f976b\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Android\\fitness_Android\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\4cb3a9d87a95185830c2a4e485ecbe3dff7f976b\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]
