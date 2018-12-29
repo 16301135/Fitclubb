@@ -1,0 +1,2 @@
+1. 使用 SQLite 数据库和content provider实现离线缓存
+在 SQLite 数据库中存储数据，通过content provider获取展示出来
